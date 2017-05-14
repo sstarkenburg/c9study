@@ -2,7 +2,7 @@
 
 * Unit test
 
-    * Fibonacci
+    * ~~Fibonacci~~
 
     * Fizzbuzz
 

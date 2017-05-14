@@ -2,6 +2,9 @@ import unittest
 from fib import fib
 
 class TestFIB(unittest.TestCase):
+    def test_fib0(self):
+        self.assertEqual(fib(0), 0)
+    
     def test_fib4(self):
         self.assertEqual(fib(4), 3)
     

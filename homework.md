@@ -1,10 +1,10 @@
 # Homework
 
-* Unit test
+* ~~Unit test~~
 
     * ~~Fibonacci~~
 
-    * Fizzbuzz
+    * ~~Fizzbuzz~~
 
 * Python program takes dic takes States: {arbitrary number}
 

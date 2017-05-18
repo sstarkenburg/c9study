@@ -22,3 +22,11 @@
 
 
 Book to look at: Programming pearls
+
+# More to explore
+
+* Decorators
+
+    * https://www.python.org/dev/peps/pep-0318/
+    
+    * https://en.wikipedia.org/wiki/Python_syntax_and_semantics#Decorators

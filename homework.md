@@ -6,11 +6,11 @@
 
     * ~~Fizzbuzz~~
 
-* Python program takes dic takes States: {arbitrary number}
+* ~~Python program takes dic takes States: {arbitrary number}~~
 
-    * Function that sorts based on values
+    * ~~Function that sorts based on values~~
 
-    * Unit test first
+    * ~~Unit test first (low score on this, since I couldn't even figure out what to test for first)~~
 
 * Dictionary comprehensions
 

@@ -15,9 +15,19 @@ class CheckStateTest(unittest.TestCase):
                 (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
             ),
             (
+                # repeated elements
+                (5, 5, 5, 5, 5),
+                (5, 5, 5, 5, 5)
+            ),
+            (
                 # just a single element
                 (1),
                 (1)
+            ),
+            (
+                # no elements
+                (),
+                ()
             )
         )
         for notSorted, nowSorted in tests:

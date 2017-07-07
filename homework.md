@@ -8,7 +8,7 @@
 
     * ~~Fizzbuzz~~
     
-    * Check out DDT
+    * ~~Check out DDT~~
     
 * ~~Python program takes dic takes States: {arbitrary number}~~
 
@@ -20,7 +20,9 @@
 
     * Quick Sort
     
-    * Merge Sort
+    * ~~Merge Sort~~
+    
+        * ~~with DDT~~
 
 * Dictionary comprehensions
 
